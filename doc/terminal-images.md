@@ -16,8 +16,7 @@ or directly in browser:
 
 The map view currently supports three formats:
 
-* PNG (for browser and messangers);
-* Sixel (terminal inline images support);
+* 
 * IIP (terminal with iterm2 inline images protocol support).
 
 ## Terminal with images support
